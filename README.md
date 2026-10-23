@@ -1,5 +1,10 @@
 # Offline AI Workspace
 
+<!-- project-contact:start -->
+**Work with Yosof Omrani:** [Email a project inquiry](mailto:aliomrani916@gmail.com) · **aliomrani916@gmail.com** · [Services & contact](https://ali771025.github.io/software-portfolio/en/contact/) · [Portfolio walkthrough](https://ali771025.github.io/software-portfolio/en/#projects)
+<!-- project-contact:end -->
+
+
 ![Offline AI Workspace architecture overview](docs/assets/overview.svg)
 
 **A Windows-oriented deployment toolkit for a local AI gateway, chat UI and supporting services.**
